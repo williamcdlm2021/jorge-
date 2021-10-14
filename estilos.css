@@ -23,7 +23,7 @@ body{
 
 /* modificar fondo en el header */
     .header{
-    background:url(../images/43393.jpg);
+    background:url(images.jpg);
     background-position: center;
     background-attachment: contain;
     background-size: cover;
